@@ -1,6 +1,6 @@
 # DOCKER COMPOSE "Hospedando um site com banco de dados Mongodb"
 
-![Docker](./image/capa.png)
+![Docker](./image/capa.jpg)
 
 **Objetivo**:
 
